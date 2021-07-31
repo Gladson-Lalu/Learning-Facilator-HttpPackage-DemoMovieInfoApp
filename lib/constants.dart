@@ -1,0 +1,38 @@
+import 'package:movies_info_app/model/movie.dart';
+
+List<Movie> moviesList = [
+  Movie(id: "1",
+      name: "Avengers EndGame",
+      imageUrl: "assets/images/pic_1.jpg",
+      score: "9.2"),
+  Movie(id: "2",
+      name: "Captain Marvel",
+      imageUrl: "assets/images/pic_2.jpg",
+      score: "8.9"),
+  Movie(id: "3",
+      name: "Guardians Of Galaxy",
+      imageUrl: "assets/images/pic_3.jpg",
+      score: "7.2"),
+  Movie(id: "4",
+      name: "The Falcon And The Winter Solider",
+      imageUrl: "assets/images/pic_4.jpg",
+      score: "8.7"),
+  Movie(id: "1",
+      name: "Avengers EndGame",
+      imageUrl: "assets/images/pic_1.jpg",
+      score: "9.2"),
+  Movie(id: "2",
+      name: "Captain Marvel",
+      imageUrl: "assets/images/pic_2.jpg",
+      score: "8.9"),
+  Movie(id: "3",
+      name: "Guardians Of Galaxy",
+      imageUrl: "assets/images/pic_3.jpg",
+      score: "7.2"),
+  Movie(id: "4",
+      name: "The Falcon And The Winter Solider",
+      imageUrl: "assets/images/pic_4.jpg",
+      score: "8.7"),
+
+
+];
